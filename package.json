@@ -1,0 +1,32 @@
+{
+  "name": "syntexhub-intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammadumerakmal/Syntexhub-intern-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Muhammadumerakmal/Syntexhub-intern-projects/issues"
+  },
+  "homepage": "https://github.com/Muhammadumerakmal/Syntexhub-intern-projects#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.5.2",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6"
+  }
+}
